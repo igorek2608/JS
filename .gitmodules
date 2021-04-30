@@ -1,0 +1,3 @@
+[submodule "HW"]
+	path = HW
+	url = https://github.com/igorek2608/JS.git
